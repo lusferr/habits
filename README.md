@@ -10,9 +10,9 @@
  ![visualizar-dia](https://user-images.githubusercontent.com/91674018/215804833-9b07e986-854b-45f4-9343-81e2f67b5374.png)
  
 # A ideia
-Criação de um monitorador de novos hábitos, aonde é possivel adicionar novos hábitos e acompanhar o desenvolvimento desses hábitos. 
+Criação de um monitorador de novos hábitos, aonde é possivel adicionar novos hábitos e acompanhar o desenvolvimento dos mesmos. 
 
-Esse projeto foi desenvolvido durante a NLW ofertado pela Rockseat. 
+Esse projeto foi desenvolvido durante a NLW ofertado pela Rocktseat. 
 
 # Tecnologias usadas
 ## Front end
