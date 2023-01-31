@@ -1,8 +1,8 @@
 # Projeto desenvolvido - Habits 
 
-![tela-inicial](https://user-images.githubusercontent.com/91674018/215804830-b8ad85a2-f197-435a-81a1-1c39d2c67fd2.png)
-<div align="center">
 
+<div align="center">
+ ![tela-inicial](https://user-images.githubusercontent.com/91674018/215804830-b8ad85a2-f197-435a-81a1-1c39d2c67fd2.png)
 </div>
 
 # A ideia
